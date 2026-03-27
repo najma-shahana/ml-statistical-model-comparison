@@ -1,5 +1,9 @@
 # Statistical Comparison of Machine Learning Models
 
+**Author:** Najma Shahana M H  
+
+**Date:** 25 January 2026
+
 ## Overview
 
 This project examines how statistical methods can be used to evaluate and compare machine learning models in a more reliable way. Instead of relying on a single train–test split, the analysis focuses on how model performance varies across different samples of the data.
