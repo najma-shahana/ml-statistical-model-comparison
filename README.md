@@ -100,22 +100,6 @@ Overall, the results highlight that small differences in average performance sho
 
 ---
 
-## Project Structure
-ml-statistical-model-comparison/
-│
-├── data/
-│ └── dataset_description.md
-│
-├── notebooks/
-│ └── model_comparison.ipynb
-│
-├── results/
-│ └── metrics_tables.csv
-│
-└── README.md
-
----
-
 ## Tools and Libraries
 
 - Python  
